@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bios_interrupt.h": "c",
+        "time.h": "c",
+        "kernel.h": "c",
+        "string.h": "c"
+    }
+}
